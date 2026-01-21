@@ -1,4 +1,13 @@
 # JavaScript-TypeScript
+## realtime-dashboard
+<img width="1919" height="994" alt="obraz" src="https://github.com/user-attachments/assets/e3798c3e-093c-42e2-96ea-d03aab0e07af" />
+
+### Przeznaczenie \ Purpose
+**EN:** A high-performance monitoring dashboard that displays live system metrics (CPU, memory, network, disk I/O) with zero lag – even during massive data bursts of hundreds of updates per second. Built with modern **Angular**, **WebSocket**, and smart backpressure handling, it stays perfectly smooth and reliable under real-world network conditions and server spikes.
+
+**PL:** Interaktywny dashboard monitorujący w czasie rzeczywistym kluczowe metryki systemu (CPU, pamięć, sieć, dysk). Wytrzymuje ekstremalne obciążenia – nawet gdy serwer zasypuje go setkami aktualizacji na sekundę, interfejs pozostaje płynny i responsywny. Wykorzystuje nowoczesny **Angular** + **WebSocket** + inteligentne zarządzanie przepływem danych, dzięki czemu użytkownik zawsze widzi aktualny stan systemu, nawet w warunkach niestabilnej sieci.
+
+[link](https://github.com/kamilszwaradzki/realtime-dashboard)
 ## revenue-and-expense-ledger-ksir
 <img width="1917" height="1002" alt="obraz" src="https://github.com/user-attachments/assets/621956dc-4fab-4404-a8fd-bf0e1e69b6ed" />
 
