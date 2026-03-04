@@ -16,7 +16,7 @@
 
 **PL:** Aplikacja webowa do prowadzenia elektronicznej księgi przychodów i rozchodów (KPiR) dla jednoosobowych działalności. Usprawnia zarządzanie finansami: umożliwia rejestrowanie przychodów i kosztów, przechowywanie faktur, automatyczne obliczanie podatków (PIT, VAT) oraz generowanie miesięcznych i rocznych zestawień. Zastępuje tradycyjne, papierowe księgi i arkusze kalkulacyjne.
 
-[link](https://github.com/kamilszwaradzki/smart-brief-ai)
+[link](https://github.com/kamilszwaradzki/revenue-and-expense-ledger-ksir)
 
 ## JobApps
 <img width="1071" height="892" alt="obraz" src="https://github.com/user-attachments/assets/eba0f35b-5659-423c-9278-b5fb3bb4afb2" />
